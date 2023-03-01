@@ -105,12 +105,10 @@ h2,h3,label,th,td {
 
 /* Content Start */
 .navbar {
-  
   background-color: rgb(221, 221, 221);
 }
 
 .header-mobile {
-  
   margin-left: 10px;
 }
 
@@ -123,7 +121,6 @@ h2,h3,label,th,td {
   display: flex;
   align-items: center;
   width: 300px;
-  
 }
 
 .searchbar input {
